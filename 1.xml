@@ -14,15 +14,15 @@
 
 
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ftbaldana/zon@main/css/normalize.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ftbaldana/zon@main/css/game.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ubg42/Knife@main/css/normalize.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ubg42/Knife@main/css/game.css">
 
 
 </head>
 <body>
 
     <div id="wrongRotation">
-        <img src="https://cdn.jsdelivr.net/gh/ftbaldana/zon@main/assets/img/rotate_screen.png" alt=""/>
+        <img src="https://cdn.jsdelivr.net/gh/ubg42/Knife@main/assets/img/rotate_screen.png" alt=""/>
     </div>
 
     <div id="blackk"></div>
@@ -32,7 +32,7 @@
 
 
 
-        <script src="https://cdn.jsdelivr.net/gh/ftbaldana/zon@82ed7c3/js/games.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/ubg42/Knife@82ed7c3/js/games.js"></script>
         
     </div>
 
