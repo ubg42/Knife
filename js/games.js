@@ -34201,7 +34201,7 @@ function addKeyWhatever(a, b, c) {
 function loadSplash() {
     game.load.image("void", IMAGE_FOLDER + "void.png");
     game.load.image("inllogo", IMAGE_FOLDER + "inllogo.png");
-    game.load.image("gamelogo", IMAGE_FOLDER + "splash.png");
+    game.load.image("gamelogo", IMAGE_FOLDER + "igloo.png");
     game.load.image("loadingBG", IMAGE_FOLDER + "loading/loading_off.png");
     game.load.image("loadingSlider", IMAGE_FOLDER + "loading/loading_on.png");
     game.load.text("gameTexts", "https://cdn.jsdelivr.net/gh/ftbaldana/zon@main/assets/lang.json")
